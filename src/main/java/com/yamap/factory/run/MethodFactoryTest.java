@@ -1,8 +1,8 @@
-package com.yamap.run;
+package com.yamap.factory.run;
 
 import com.yamap.factory.method.ICourseFactory;
 import com.yamap.factory.method.JavaCourseFactory;
-import com.yamap.product.Icourse;
+import com.yamap.factory.product.Icourse;
 
 /**
  * project name : design-project

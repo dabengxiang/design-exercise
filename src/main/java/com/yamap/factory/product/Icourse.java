@@ -1,4 +1,4 @@
-package com.yamap.product;
+package com.yamap.factory.product;
 
 /**
  * project name : design-project

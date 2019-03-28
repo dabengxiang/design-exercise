@@ -1,8 +1,8 @@
-package com.yamap.run;
+package com.yamap.factory.run;
 
 import com.yamap.factory.simple.SimpFactory;
-import com.yamap.product.Icourse;
-import com.yamap.product.PystonCourse;
+import com.yamap.factory.product.Icourse;
+import com.yamap.factory.product.PystonCourse;
 
 /**
  * project name : design-project

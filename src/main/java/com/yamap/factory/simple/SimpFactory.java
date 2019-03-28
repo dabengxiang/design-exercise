@@ -1,8 +1,8 @@
 package com.yamap.factory.simple;
 
-import com.yamap.product.Icourse;
-import com.yamap.product.JavaCourse;
-import com.yamap.product.PystonCourse;
+import com.yamap.factory.product.Icourse;
+import com.yamap.factory.product.JavaCourse;
+import com.yamap.factory.product.PystonCourse;
 
 /**
  * project name : design-project

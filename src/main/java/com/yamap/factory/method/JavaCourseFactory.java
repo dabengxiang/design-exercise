@@ -1,7 +1,7 @@
 package com.yamap.factory.method;
 
-import com.yamap.product.Icourse;
-import com.yamap.product.JavaCourse;
+import com.yamap.factory.product.Icourse;
+import com.yamap.factory.product.JavaCourse;
 
 /**
  * project name : design-project
