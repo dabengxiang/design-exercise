@@ -1,17 +1,13 @@
 package com.yamap.prototype.simple;
 
-import lombok.Data;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
 
 /**
  * Date:2019/3/30
  * Author:gyc
  * Desc:
  */
-@Data
 public class ProtoTypeA implements Cloneable{
 
     private String name;
@@ -48,4 +44,28 @@ public class ProtoTypeA implements Cloneable{
         }
     }
 
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public ArrayList<String> getHobby() {
+        return Hobby;
+    }
+
+    public void setHobby(ArrayList<String> hobby) {
+        Hobby = hobby;
+    }
 }
