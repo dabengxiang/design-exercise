@@ -23,7 +23,7 @@ public class PromotionActivityFactory {
 
 
 
-    public PromotionStrategy getPromotion(String name ){
+    public static PromotionStrategy getPromotion(String name ){
         return map.getOrDefault(name,map.get(PromotionName.DEFAULT));
     }
 
